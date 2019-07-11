@@ -9,7 +9,7 @@ Get and update product records
 Return all or single product records
 
 ##### Parameters:
-`filter` can be provided with search data following the [JSON filter spec](/crmasp/crmpro/wiki/Dynamic-Model-Filtering).
+`filter` can be provided with search data following the [JSON filter spec](https://github.com/eliebmobile/crm_pro-wiki/blob/master/Dynamic-Model-Filtering.md).
 
 
 #### POST
