@@ -1,0 +1,3 @@
+CRMpro is not meant to replace the user's main email client. 
+The inbox presented under email attempts to represent a live view of the user's email provider's inbox. The automatic email parsing extract the important emails and assigns them to the relevant contacts. The inbox is meant to supplement email management by letting the user peek into his inbox. Email composition is not reliant on email addresses and the user cannot ever email an email address directly. Instead the user must operate on contacts. This ensures the electronic trail of communication is retained across the contact's history.
+

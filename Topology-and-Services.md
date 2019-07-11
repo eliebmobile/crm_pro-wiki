@@ -1,0 +1,1 @@
+All API traffic is served first by nginx. Static files are served by nginx while all dynamic calls are routed to a uWsgi server running in emperor mode.

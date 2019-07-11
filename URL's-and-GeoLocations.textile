@@ -1,0 +1,22 @@
+Staging / Dev:   
+                 "cogmento.net":cogmento.net
+                 "ui.cogmento.net":ui.cogmento.net
+                 "api.cogmento.net":api.cogmento.net
+
+US:
+                 cogmento.com
+                 "ui.cogmento.com":ui.cogmento.com
+                 "api.cogmento.com":api.cogmento.com
+
+
+UK:
+                 cogmento.uk    .co.uk
+                 "ui.cogmento.uk":ui.cogmento.uk
+                 "api.cogmento.uk":api.cogmento.uk
+
+
+
+India
+                 cogmento.in .co.in
+                 ui.cogmento.in
+                 api.cogmento.in
