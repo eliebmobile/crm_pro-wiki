@@ -18,4 +18,4 @@ The fixed fields in all Dynamic Models are:
 * `batch_id`: A unique UUID to group objects by their method of insertion.
 * `aux_ud`: An alternative id field. Useful when importing for external systems where the original id is required. 
 
-For Dynamic Model filtering and querying, see here: https://github.com/crmasp/crmpro/wiki/Dynamic-Model-Filtering
+For Dynamic Model filtering and querying, see here: https://github.com/eliebmobile/crm_pro-wiki/blob/master/Dynamic-Model-Filtering.md
