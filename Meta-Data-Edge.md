@@ -1,4 +1,4 @@
-Each account can define its own custom fields for each [model type](/crmasp/crmpro/wiki/Model-Types), the Meta Data calls allow the user to retrieve and set those fields on the account templates. 
+Each account can define its own custom fields for each [model type](https://github.com/eliebmobile/crm_pro-wiki/blob/master/Model-Types.md), the Meta Data calls allow the user to retrieve and set those fields on the account templates. 
 
 #### GET
 `/templates/{MODEL_TYPE}/`   
