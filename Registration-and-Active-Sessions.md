@@ -24,4 +24,4 @@ If the free month ends and the user has not yet filled in payment details, the a
 
 Any occurrence of delinquency in payments will result in an immediate and automatic account block, incurring charges per month until the block is lifted by paying any outstanding amounts.  
 
-See also [Post Registration](/crmasp/crmpro/wiki/Post-Registration)
+See also [Post Registration](https://github.com/eliebmobile/crm_pro-wiki/blob/master/Post-Registration.md)
